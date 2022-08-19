@@ -1,0 +1,2 @@
+.UserID = 2488560398
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
